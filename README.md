@@ -3,7 +3,7 @@
     ProjetoGenSim
     <br />
     <br />
-    <img src="GenSim.PNG">
+    <img src="assets/logo.png">
   </h1>
   <p>O GenSim é o projeto desenvolvido por mim, Miguel Prata, com intuíto de completar o curso FrontEnd da Kick 2024, o GenSim é um gerador de simulado para ajudar os estudantes a estudar para os vestibulares como o ENEM.</p>
 
@@ -11,7 +11,6 @@
     Paleta de Cores
   <br/>
   <br/>
-  <img src="Paleta.PNG">
   </h3>
   <br/>
   <p>A coloração focada no azul se dá por conta da transmissão de seu significado, o azul transmite segurança, confiança e tranquilidade, tais sentimentos ou emoções são algo muito necessário para ter um bom desempenho nos vestibulares, por tal motivo utilizei dessas cores.</p>
@@ -20,7 +19,6 @@
     Fontes
     <br/>
     <br/>
-    <img src="Fonte.PNG">
   </h3>
   <p>A fonte utilizada foi Roboto com o tamanho entre 10-40.</p>
 
@@ -28,7 +26,6 @@
     Ícones
     <br/>
     <br/>
-    <img src="Icones.PNG">
   </h3>
   <p>Os ícones utilizados no projeto foram tirados do site Boxicos e Google Icons: <br/> https://boxicons.com/?query= <br/> https://fonts.google.com/icons</p>
 
