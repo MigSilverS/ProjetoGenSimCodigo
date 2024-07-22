@@ -50,7 +50,7 @@
     padding: 5px;
     background-color: white;
     cursor: pointer;
-    appearance: none; /* Remove the default arrow */
+    appearance: none;
     background-image: url('data:image/svg+xml;charset=US-ASCII,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4 5"><path fill="%233D39FB" d="M2 0L0 2h4z"/></svg>');
     background-repeat: no-repeat;
     background-position: right 10px center;
@@ -60,7 +60,9 @@
 }
 
 .navheader .selects select:hover,
-.navheader .selects select:focus {
+.navheader .selects select:focus,
+.navheader input[type="text"]:hover,
+.navheader input[type="text"]:focus {
     border-color: #3D39FB;
     box-shadow: 0 0 5px rgba(61, 57, 251, 0.5);
     outline: none;
