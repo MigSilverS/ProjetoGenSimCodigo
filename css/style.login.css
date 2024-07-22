@@ -57,7 +57,6 @@
 }
 
 .container button {
-    margin-top: 30px;
     padding: 5px 20px;
     font-size: 20px;
     color: white;
@@ -66,6 +65,11 @@
     border-radius: 8px;
     cursor: pointer;
     transition: 0.3s ease;
+}
+
+.container form a{
+    text-decoration: none;
+    margin-top: 30px;
 }
 
 .container button:hover {

@@ -108,10 +108,21 @@ nav button#menuButton {
     padding: 7px;
 }
 
+.user {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.user span {
+    font-size: 40px;
+}
+
 .header {
     background-image: url('../assets/header.jpg');
     background-size: cover;
-    background-position: bottom;
+    background-position: center;
     background-repeat: no-repeat;
     height: 600px;
     display: flex;
@@ -380,6 +391,10 @@ footer .logo img {
 @media screen and (max-width: 450px) {
     nav ul {
         gap: 10px;
+    }
+
+    .user {
+        display: none;
     }
 
     footer {
