@@ -75,7 +75,7 @@
 .content .card {
     width: 100%;
     height: 250px;
-    background-image: url('assets/xavier.jpg');
+    background-image: url('../assets/xavier.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -157,7 +157,7 @@
 .content .cardcompart {
     width: 100%;
     height: 200px;
-    background-image: url('assets/mathbackground.jpg');
+    background-image: url('../assets/mathbackground.jpg');
     background-size: cover;
     display: flex;
     align-items: center;
