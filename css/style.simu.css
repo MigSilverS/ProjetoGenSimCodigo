@@ -81,7 +81,7 @@
 .content .card {
     width: 100%;
     height: 200px;
-    background-image: url('assets/mathbackground.jpg');
+    background-image: url('../assets/mathbackground.jpg');
     background-size: cover;
     display: flex;
     align-items: center;
@@ -227,4 +227,20 @@
 .answer input[type="radio"] {
     accent-color: #3D39FB;
     transform: scale(1.2);
+}
+
+@media screen and (max-width: 1050px){
+    .btnright {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .card-left h1{
+        font-size: 18px;
+    }
+
+    .card-left p {
+        font-size: 13px;
+    }
 }
